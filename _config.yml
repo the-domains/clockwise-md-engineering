@@ -1,0 +1,28 @@
+name: Clockwise.MD Engineering
+favicon: null
+layout_spectrum: 0.8584192129783332
+typography_spectrum: 0.8837871679570526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4380509117618203
+  lightness: 0.7215838951524347
+  saturation: 0.42329898849129677
+  rhythmicContrast: 0.05368455336429179
+purpose: []
